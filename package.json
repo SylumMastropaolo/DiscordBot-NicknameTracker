@@ -1,0 +1,15 @@
+{
+  "name": "discord-bot",
+  "version": "1.0.0",
+  "description": "This code is for a discord bot that keeps track of custom @'s for users and messages them if they are mentioned by this custom name.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sylum Mastropaolo",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^11.4.2",
+    "mongoose": "^5.3.7"
+  }
+}
